@@ -1,5 +1,7 @@
 Simple Go API
 
+Built with Golang, GORM, Gin Gonic, MySQL
+
 # Migration
 
     go run migrate/migrate.go
